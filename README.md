@@ -7,6 +7,7 @@
 - ⚡ Fun fact: Guess how many hours that I spent on Animal Crossing ? 1000 hours!
 
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
+![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
 ### Tech Stack 🛠
 ![](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)
 ![](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby-on-rails)
