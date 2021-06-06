@@ -1,8 +1,9 @@
 ### Hi, I’m Chenchen 👋
 - 💁🏻‍♀️ My French portfolio is https://chenchenzheng.com
-- 🌱 I’m currently learning fullstack development at Le Wagon Paris
+- 🌱 I’m currently learning React
+- 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
+- 🤔 My group project at Le Wagon is [Le Plateau](https://www.leplateau.app/)
 - 🤖 I can code in Ruby and JavaScript
-- 🤔 I’m currently working on my group project [Le Plateau](https://www.leplateau.app/)
 - 💬 Ask me about Ruby, Rails
 - ⚡ Fun fact: Guess how many hours that I spent on Animal Crossing ? 1000 hours!
 
