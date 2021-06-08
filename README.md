@@ -1,6 +1,6 @@
 ### Hi, I’m Chenchen 👋
 - 💁🏻‍♀️ My French portfolio is https://chenchenzheng.com
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
 - 🤔 My group project at Le Wagon is [Le Plateau](https://www.leplateau.app/)
 - 🤖 I can code in Ruby and JavaScript
