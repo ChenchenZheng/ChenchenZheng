@@ -6,7 +6,7 @@
 - 🤖 I can code in Ruby and JavaScript
 - 💬 Ask me about Ruby, Rails
 - ⚡ Fun fact: Guess how many hours that I spent on Animal Crossing ? 1000 hours!
-- 🎮 Wanna a [clash of code](https://www.codingame.com/profile/e16e49a3fa169b8c4c931534abb6d60d7976024) with me ?
+- 🎮 Wanna play a [clash of code](https://www.codingame.com/profile/e16e49a3fa169b8c4c931534abb6d60d7976024) with me ?
 
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
 ![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
