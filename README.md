@@ -1,17 +1,19 @@
 ### Hi, I’m Chenchen 👋
-- 💁🏻‍♀️ My French portfolio is https://chenchenzheng.com
+- 💁🏻‍♀️ My French portfolio is [here](https://chenchenzheng.com)
 - 🌱 I’m currently learning React and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
 - 🤔 My group project at Le Wagon is [Le Plateau](https://www.leplateau.app/)
 - 🤖 I can code in Ruby and JavaScript
 - 💬 Ask me about Ruby, Rails
 - ⚡ Fun fact: Guess how many hours that I spent on Animal Crossing ? 1000 hours!
+- 🎮 Wanna a [clash of code](https://www.codingame.com/profile/e16e49a3fa169b8c4c931534abb6d60d7976024) with me ?
 
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
 ![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
 ### Tech Stack 🛠
 ![](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)
 ![](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby-on-rails)
+![](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
 ![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
