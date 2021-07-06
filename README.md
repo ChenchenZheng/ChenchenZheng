@@ -1,10 +1,10 @@
 ### Hi, I’m Chenchen 👋
-![](https://img.shields.io/badge/Version-30.06.2021-informational)
+![](https://img.shields.io/badge/Version-06.07.2021-informational)
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
 ![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
 
 - 💁🏻‍♀️ My French portfolio is [here](https://chenchenzheng.com)
-- 🌱 I’m currently learning [Ruby testing](https://github.com/ChenchenZheng/ruby-testing) and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
+- 🌱 I’m currently learning Docker and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
 - 👯 My group project at Le Wagon is [Le Plateau](https://www.leplateau.app/)
 - 🤖 I can code in Ruby and JavaScript
@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 ![](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
 ![](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
