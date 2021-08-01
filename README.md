@@ -1,10 +1,10 @@
 ### Hi, I’m Chenchen 👋
-![](https://img.shields.io/badge/Version-06.07.2021-informational)
+![](https://img.shields.io/badge/Version-01.08.2021-informational)
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
 ![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
 
 - 💁🏻‍♀️ My French portfolio is [here](https://chenchenzheng.com)
-- 🌱 I’m currently learning Docker and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
+- 🌱 I’m currently learning Hotwire and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
 - 👯 My group project at Le Wagon is [Le Plateau](https://www.leplateau.app/)
 - 🤖 I can code in Ruby and JavaScript
