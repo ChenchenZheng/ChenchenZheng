@@ -1,10 +1,11 @@
 ### Hi, I’m Chenchen 👋
-![](https://img.shields.io/badge/Version-01.08.2021-informational)
+![](https://img.shields.io/badge/Version-09.10.2021-informational)
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
 ![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
 
+- 👩🏻‍💻 I'm working in Paris at Matera as a back-end developer
 - 💁🏻‍♀️ My French portfolio is [here](https://chenchenzheng.com)
-- 🌱 I’m currently learning Hotwire and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
+- 🌱 I’m currently learning React and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
 - 👯 My group project at Le Wagon is [Le Plateau](https://www.leplateau.app/)
 - 🤖 I can code in Ruby and JavaScript
@@ -39,6 +40,8 @@
 ![](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)
 ![](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)
 ![](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)
+![](https://img.shields.io/badge/-Hubspot-05122A?style=flat&logo=Hubspot)
+![](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry)
 
 ### How to reach me 📫
 [![https://www.linkedin.com/in/chenchen-zheng/](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenchen-zheng/)
