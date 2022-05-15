@@ -7,7 +7,7 @@
 - 💁🏻‍♀️ My French portfolio is [here](https://chenchenzheng.com)
 - 🌱 I’m currently learning React and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
-- 👯 My group project at Le Wagon is [Le Plateau](https://www.leplateau.app/)
+- 👯 My group project at Le Wagon is [Le Plateau](https://le-plateau.herokuapp.com/)
 - 🤖 I can code in Ruby and JavaScript
 - 💬 Ask me about Ruby, Rails
 - ⚡ Fun fact: Guess how many hours that I spent on Animal Crossing ? 1000 hours!
