@@ -1,9 +1,9 @@
 ### Hi, I’m Chenchen 👋
-![](https://img.shields.io/badge/Version-09.10.2021-informational)
+![](https://img.shields.io/badge/Version-18.06.2022-informational)
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
 ![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
 
-- 👩🏻‍💻 I'm working in Paris at Matera as a back-end developer
+- 👩🏻‍💻 I'm working in Paris at Matera as a back-end developer since August 2021
 - 💁🏻‍♀️ My French portfolio is [here](https://chenchenzheng.com)
 - 🌱 I’m currently learning React and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
@@ -42,6 +42,7 @@
 ![](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)
 ![](https://img.shields.io/badge/-Hubspot-05122A?style=flat&logo=Hubspot)
 ![](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry)
+![](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
 
 ### How to reach me 📫
 [![https://www.linkedin.com/in/chenchen-zheng/](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenchen-zheng/)
