@@ -1,19 +1,15 @@
-### Hi, I’m Chenchen 👋
-![](https://img.shields.io/badge/Version-18.06.2022-informational)
+### 👋 Hi, I’m Chenchen
+![](https://img.shields.io/badge/Version-23.07.2023-informational)
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
 ![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
 
-- 👩🏻‍💻 I'm working in Paris at Matera as a back-end developer since August 2021
-- 💁🏻‍♀️ My French portfolio is [here](https://chenchenzheng.com)
-- 🌱 I’m currently learning React and working on an [API for Attack on Titan](https://github.com/ChenchenZheng/attack_on_titan_api)
+- 🚗 I’m working at Getaround (ex-Drivy) as Full-Stack Engineer
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
-- 👯 My group project at Le Wagon is [Le Plateau](https://le-plateau.herokuapp.com/)
 - 🤖 I can code in Ruby and JavaScript
-- 💬 Ask me about Ruby, Rails
 - ⚡ Fun fact: Guess how many hours that I spent on Animal Crossing ? 1000 hours!
 - 🎮 Wanna play a [clash of code](https://www.codingame.com/profile/e16e49a3fa169b8c4c931534abb6d60d7976024) with me ?
 
-### Tech Stack 🛠
+### 🛠 Tech Stack
 ![](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)
 ![](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby-on-rails)
 ![](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=Wordpress)
@@ -31,7 +27,7 @@
 ![](https://img.shields.io/badge/-OVH-05122A?style=flat&logo=OVH)
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### Software 💻
+### 💻 Software
 ![](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
 ![](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=AdobeXD)
 ![](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
@@ -42,8 +38,9 @@
 ![](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)
 ![](https://img.shields.io/badge/-Hubspot-05122A?style=flat&logo=Hubspot)
 ![](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry)
+![](https://img.shields.io/badge/-Bugsnag-05122A?style=flat&logo=Bugsnag)
 ![](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
-
+![](https://img.shields.io/badge/-Newrelic-05122A?style=flat&logo=Newrelic)
 ### How to reach me 📫
 [![https://www.linkedin.com/in/chenchen-zheng/](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenchen-zheng/)
 [![mailto:chenchenzheng42@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chenchenzheng42@gmail.com)
