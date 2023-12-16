@@ -44,4 +44,4 @@
 ### How to reach me 📫
 [![https://www.linkedin.com/in/chenchen-zheng/](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenchen-zheng/)
 [![mailto:chenchenzheng42@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chenchenzheng42@gmail.com)
-[![https://www.instagram.com/chenchen_hamster/?hl=fr](https://img.shields.io/badge/-@chenchen__hamster_-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chenchen_hamster/?hl=fr)
+[![https://www.instagram.com/chenchen_hamster/?hl=fr](https://img.shields.io/badge/-@pinou_boss-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pinou_boss/?hl=fr)
