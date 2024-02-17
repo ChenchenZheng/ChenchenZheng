@@ -9,6 +9,9 @@
 - ⚡ Fun fact: Guess how many hours that I spent on Animal Crossing ? 1000 hours!
 - 🎮 Wanna play a [clash of code](https://www.codingame.com/profile/e16e49a3fa169b8c4c931534abb6d60d7976024) with me ?
 
+### 🐍 Watch my contribution graph get eaten by the snake
+![snake gif](https://github.com/ChenchenZheng/ChenchenZheng/blob/assets/github-contribution-grid-snake.svg)
+
 ### 🛠 Tech Stack
 ![](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)
 ![](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby-on-rails)
@@ -40,8 +43,9 @@
 ![](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry)
 ![](https://img.shields.io/badge/-Bugsnag-05122A?style=flat&logo=Bugsnag)
 ![](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
-![](https://img.shields.io/badge/-Newrelic-05122A?style=flat&logo=Newrelic)
-### How to reach me 📫
+![](https://img.shields.io/badge/-Newrelic-05122A?style=fl🐍at&logo=Newrelic)
+
+### 📫 How to reach me 
 [![https://www.linkedin.com/in/chenchen-zheng/](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenchen-zheng/)
 [![mailto:chenchenzheng42@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chenchenzheng42@gmail.com)
 [![https://www.instagram.com/chenchen_hamster/?hl=fr](https://img.shields.io/badge/-@pinou_boss-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pinou_boss/?hl=fr)
