@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m Chenchen
-![](https://img.shields.io/badge/Version-23.07.2023-informational)
+![](https://img.shields.io/badge/Version-22.10.2026-informational)
 ![](https://komarev.com/ghpvc/?username=chenchenzheng&color=F6A2AD)
 ![](https://www.codewars.com/users/ChenchenZheng/badges/micro)
 
-- 🚗 I’m working at Getaround (ex-Drivy) as Full-Stack Engineer
+- 🚗 I’m working at Pennylane as Full-Stack Engineer
 - 👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021
 - 🤖 I can code in Ruby and JavaScript
 - ⚡ Fun fact: Guess how many hours that I spent on Animal Crossing ? 1000 hours!
@@ -48,4 +48,3 @@
 ### 📫 How to reach me 
 [![https://www.linkedin.com/in/chenchen-zheng/](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenchen-zheng/)
 [![mailto:chenchenzheng42@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chenchenzheng42@gmail.com)
-[![https://www.instagram.com/chenchen_hamster/?hl=fr](https://img.shields.io/badge/-@pinou_boss-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pinou_boss/?hl=fr)
